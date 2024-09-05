@@ -1,0 +1,17 @@
+Regras de Negócio:
+
+- Nomes de usuário não podem ter espaço ou caracteres especiais.
+- É necessário uma solicitação para seguir contas privadas.
+- A biografia tem o limite de 150 caracteres.
+
+Req. Funcionais:
+
+- Postar foto(s)/vídeo(s) no feed. 
+- Um usuário pode optar por deixar seu perfil público ou privado.
+- Arquivar posts.
+
+Req. não Funcionais:
+
+- Identificação dos storys de outros usuários (melhores amigos). 
+- Todo post deve ter ícones para curtir, comentar, encaminhar e favoritar.
+- Contas com o selo de verificado, significam que são contas veridicas e autênticas.
